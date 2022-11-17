@@ -1,7 +1,7 @@
 
 
 ## To be 꾸준하게 달리는 개발자 
-안녕하세요. 프론트엔드 개발자 **김효성** 입니다.
+<h2 align="center">프론트엔드 개발자 김효성 입니다.</h2>
 
 <br>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>

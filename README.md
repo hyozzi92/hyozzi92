@@ -34,7 +34,8 @@ B ----> E[React Native<br>공부예정]
  <br>
  <br>
  <a href="https://velog.io/@gytjdwlwhs"><img src="https://velog-readme-stats.vercel.app/api?name=gytjdwlwhs" width="500" > </a>
-  <a href="https://github.com/hyozzi92/github-readme-stats" ><img src="https://github-readme-stats.vercel.app/api?username=hyozzi92" height="145" width="500" > </a>
+ <br>
+  <a href="https://github.com/hyozzi92/github-readme-stats" ><img src="https://github-readme-stats.vercel.app/api?username=hyozzi92" width="500" > </a>
 
 
  

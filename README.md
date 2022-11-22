@@ -16,14 +16,12 @@
 </p>
 
 
-<h3 align="center"><b>♰ Velog & Github ♰</b></h3>
+<h3 align="center"><b>♰ Velog ♰</b></h3>
 
 <div align="center">
- 
- <br>
- <br>
+
  <a href="https://velog.io/@gytjdwlwhs"><img src="https://velog-readme-stats.vercel.app/api?name=gytjdwlwhs" width="500" > </a>
- <br>
+<h3 align="center"><b>♰ Github ♰</b></h3>
   <a href="https://github.com/hyozzi92/github-readme-stats" ><img src="https://github-readme-stats.vercel.app/api?username=hyozzi92" width="500" > </a>
 
 

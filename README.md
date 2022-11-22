@@ -1,11 +1,10 @@
 
 
-## To be 꾸준하게 달리는 개발자 #김효성# 입니다
-
-<br>
+ <h1 align="center">호기심이 많은 개발자 👋</h1>
+ <p align="center">호기심이 원동력인 프론트엔드 개발자 김효성입니다.
 <h3 align="center"><b>♰ Tech Stack ♰</b></h3>
 <br>
-<br>
+
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
@@ -15,18 +14,8 @@
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
 
 </p>
-<br>
-<br>
-<h3 align="center"><b>♰ History ♰</b></h3>
-<br>
-<br>
 
-```mermaid
-graph LR
-A[HTML,CSS<br>인강] ----> B[Javascript<br>독학] ----> C[React<br>wecode]
-B ----> D[NextJS<br>공부예정]
-B ----> E[React Native<br>공부예정]
-```
+
 <h3 align="center"><b>♰ Velog & Github ♰</b></h3>
 
 <div align="center">

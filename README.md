@@ -1,7 +1,7 @@
 
 
  <h1 align="center">호기심이 많은 개발자 👋</h1>
- <p align="center">호기심이 원동력인 프론트엔드 개발자 김효성입니다.
+ <p align="center">궁금한게 많은 프론트엔드 개발자 김효성입니다.
 <h3 align="center"><b>♰ Tech Stack ♰</b></h3>
 <br>
 
